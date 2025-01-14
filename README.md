@@ -1,0 +1,1 @@
+This repository demonstrates a common type error in TypeScript. The `add` function is defined to accept two numbers and return a number. However, the code attempts to add a number and a string, causing a type error. The solution shows how to fix this using type assertions or union types.
